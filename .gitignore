@@ -1,0 +1,9 @@
+## idea's ##
+.idea/
+.vscode/
+
+## Byte-compiled ##
+__pycache__/
+*.py[cod]
+*$py.class
+
